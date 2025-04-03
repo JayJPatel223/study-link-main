@@ -1,0 +1,1 @@
+{"root":["./src/index.ts","./src/middlewares/authenticateuser.ts","./src/routes/discussion.routes.ts","./src/routes/files.routes.ts","./src/routes/group.routes.ts","./src/routes/userprofile.routes.ts","./src/types/auth-req.ts","./src/utils/auth.ts","./src/utils/prisma.ts","./src/utils/resend.ts","./src/utils/uploadthing.ts"],"version":"5.7.3"}
